@@ -14817,6 +14817,10 @@
       <userVisible>
         <common>true</common>
       </userVisible>
+      <title>
+        <key>ru</key>
+        <value>Группа6</value>
+      </title>
       <extendedTooltip>
         <name>Группа6РасширеннаяПодсказка</name>
         <id>1263</id>
@@ -14976,7 +14980,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ВыгрузкаEnterpriseAxapta</types>
+      <types>ExternalDataProcessor.ВыгрузкаEnterpriseAxapta</types>
     </valueType>
     <view>
       <common>true</common>
