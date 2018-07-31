@@ -14328,11 +14328,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:MultiLanguageDataPath">
-            <paths xsi:type="form:DataPath">
-              <segments>4/0:decb27a8-7dd3-4601-a694-30429e638b39</segments>
-            </paths>
-          </dataPath>
           <extendedTooltip>
             <name>РегистрСведенийСписокРазделРасширеннаяПодсказка</name>
             <id>1279</id>
@@ -14380,11 +14375,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:MultiLanguageDataPath">
-            <paths xsi:type="form:DataPath">
-              <segments>4/0:922ac6c0-a6a8-444e-9aad-27dc0f49b32e</segments>
-            </paths>
-          </dataPath>
           <extendedTooltip>
             <name>РегистрСведенийСписокОбъектРасширеннаяПодсказка</name>
             <id>1282</id>
@@ -14432,11 +14422,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:MultiLanguageDataPath">
-            <paths xsi:type="form:DataPath">
-              <segments>4/0:d7a128e4-f31f-4b09-8424-e816ab59d5c3</segments>
-            </paths>
-          </dataPath>
           <extendedTooltip>
             <name>РегистрСведенийСписокПользовательРасширеннаяПодсказка</name>
             <id>1285</id>
@@ -14484,11 +14469,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:MultiLanguageDataPath">
-            <paths xsi:type="form:DataPath">
-              <segments>4/0:176f8835-73d2-4fbe-9d2a-0a4c79d3b871</segments>
-            </paths>
-          </dataPath>
           <extendedTooltip>
             <name>РегистрСведенийСписокДатаЗапретаРасширеннаяПодсказка</name>
             <id>1288</id>
@@ -14536,11 +14516,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:MultiLanguageDataPath">
-            <paths xsi:type="form:DataPath">
-              <segments>4/0:0ba68198-983d-409b-be27-96f1572b3f12</segments>
-            </paths>
-          </dataPath>
           <extendedTooltip>
             <name>РегистрСведенийСписокОписаниеДатыЗапретаРасширеннаяПодсказка</name>
             <id>1291</id>
@@ -14588,11 +14563,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:MultiLanguageDataPath">
-            <paths xsi:type="form:DataPath">
-              <segments>4/0:9cd1e8dd-e2be-48a9-b32d-43688e1748bc</segments>
-            </paths>
-          </dataPath>
           <extendedTooltip>
             <name>РегистрСведенийСписокКомментарийРасширеннаяПодсказка</name>
             <id>1294</id>
@@ -14817,10 +14787,6 @@
       <userVisible>
         <common>true</common>
       </userVisible>
-      <title>
-        <key>ru</key>
-        <value>Группа6</value>
-      </title>
       <extendedTooltip>
         <name>Группа6РасширеннаяПодсказка</name>
         <id>1263</id>
@@ -14980,7 +14946,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessor.ВыгрузкаEnterpriseAxapta</types>
+      <types>ExternalDataProcessorObject.ВыгрузкаEnterpriseAxapta</types>
     </valueType>
     <view>
       <common>true</common>
@@ -15092,7 +15058,8 @@
     </title>
     <id>4</id>
     <valueType>
-      <types>InformationRegisterRecordSet.ДатыЗапретаИзменения</types>
+      <types>String</types>
+      <stringQualifiers/>
     </valueType>
     <view>
       <common>true</common>

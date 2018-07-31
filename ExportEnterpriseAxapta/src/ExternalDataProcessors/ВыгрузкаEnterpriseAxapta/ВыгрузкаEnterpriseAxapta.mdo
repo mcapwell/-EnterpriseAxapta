@@ -112,7 +112,10 @@
     </synonym>
     <comment></comment>
     <type>
-      <types>CatalogRef.Организации</types>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
     </type>
     <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -173,7 +176,10 @@
     </synonym>
     <comment></comment>
     <type>
-      <types>CatalogRef.Контрагенты</types>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
     </type>
     <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -670,7 +676,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Номенклатура</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -903,7 +912,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.СтраныМира</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -958,7 +970,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Номенклатура</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -973,7 +988,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Организации</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1282,7 +1300,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Номенклатура</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1297,7 +1318,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Номенклатура</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1351,7 +1375,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.СтраныМира</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1428,7 +1455,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Контрагенты</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1483,7 +1513,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Номенклатура</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1752,7 +1785,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.СтраныМира</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1877,7 +1913,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Организации</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -1892,7 +1931,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Номенклатура</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -2033,7 +2075,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Номенклатура</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -2551,7 +2596,10 @@
       </synonym>
       <comment></comment>
       <type>
-        <types>CatalogRef.Организации</types>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
       </type>
       <mask></mask>
       <minValue xsi:type="core:UndefinedValue"/>

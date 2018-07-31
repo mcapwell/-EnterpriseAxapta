@@ -3,6 +3,7 @@
 	<name>ExportEnterpriseAxapta</name>
 	<comment></comment>
 	<projects>
+		<project>MSTrade</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
